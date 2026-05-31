@@ -60,6 +60,7 @@ I am a curious **Computer Engineering** student at the **University of Isfahan**
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="48" alt="canva logo" />
 </div>
+
 ---
 
 ### 🤝 Connect with me
