@@ -3,7 +3,7 @@
 </p>
 
 # Hi there, I'm Shahrokh! 👋 
-### 🚀 Computer Engineering Student & Software Developer
+### 🚀 Computer Engineering Student
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=98C379&center=true&vCenter=true&width=500&lines=Building+cool+stuff+with+code;Exploring+Algorithms+%26+Theory;Turning+Code+Into+Visual+Art" alt="Typing SVG" />
@@ -24,7 +24,7 @@ I am a curious **Computer Engineering** student at the **University of Isfahan**
 
 | Category | Technologies & Logos |
 | :--- | :--- |
-| **Core & Systems Languages** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="38" alt="c logo" /> <img width="6" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="38" alt="cplusplus logo" /> <img width="6" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zig/zig-original.svg" height="38" alt="zig logo" /> |
+| **Core & Systems Languages** | <img width="6" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="38" alt="cplusplus logo" /> <img width="6" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zig/zig-original.svg" height="38" alt="zig logo" /> |
 | **Scripting & Web Base** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="python logo" /> <img width="6" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="38" alt="javascript logo" /> <img width="6" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="38" alt="typescript logo" /> |
 | **Frontend Ecosystem** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="38" alt="html5 logo" /> <img width="6" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="38" alt="css logo" /> <img width="6" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="38" alt="bootstrap logo" /> <img width="6" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="38" alt="react logo" /> |
 | **Backend & Databases** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="38" alt="nodejs logo" /> <img width="6" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="38" alt="mysql logo" /> |
