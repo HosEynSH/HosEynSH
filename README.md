@@ -62,15 +62,6 @@ I am a curious **Computer Engineering** student at the **University of Isfahan**
 </div>
 ---
 
-### 📊 My GitHub Stats (Dynamic)
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=HosEynSH&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HosEynSH&layout=compact&theme=onedark" />
-</p>
-
----
-
 ### 🤝 Connect with me
 <p align="left">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
