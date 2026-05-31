@@ -73,7 +73,7 @@ I am a curious **Computer Engineering** student at the **University of Isfahan**
   </a>
 </p>
 
----
+#
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HosEynSH/HosEynSH/snake-output/snake-dark.svg">
