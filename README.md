@@ -74,8 +74,13 @@ I am a curious **Computer Engineering** student at the **University of Isfahan**
 </p>
 
 ---
-<img src="https://raw.githubusercontent.com/HosEynSH/HosEynSH/snake-output/snake.svg" alt="Snake animation" />
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HosEynSH/HosEynSH/snake-output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HosEynSH/HosEynSH/snake-output/snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HosEynSH/HosEynSH/snake-output/snake.svg">
+  </picture>
+</p>
 ---
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient&textBg=false" width="100%" />
