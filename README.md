@@ -82,7 +82,7 @@ I am a curious **Computer Engineering** student at the **University of Isfahan**
   </picture>
 </p>
 
----
+#
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient&textBg=false" width="100%" />
 </p>
