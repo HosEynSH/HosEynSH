@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3VwY3N4M2N0OXVwM3Rtc2FpaGlwNndreDV6YnVvOHZ5d3VwOHZ5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" alt="Anime Coding Banner" />
+  <img src="last.gif" width="60%" alt="Anime Coding Banner" />
 </p>
 
 # Hi there, I'm Shahrokh! 👋 
