@@ -12,13 +12,14 @@
 ---
 
 ### 💫 About Me
-I am a curious **Computer Engineering** student at the **University of Isfahan**. I love bridging the gap between computational theory, efficient back-end algorithms, and practical web development.
 
-- 🔭 I am currently focusing on sharpening my core programming skills.
-- 📚 I am diving deeper into mastering different programming languages and modern front-end development.
-- ⚡ Fun fact: For me, front-end development is like art—I love bringing code to life and seeing it turn into something visually beautiful right before my eyes!
+Computer Engineering student at University of Isfahan.
 
+- 🎨 Passionate about **UI design** & **Front-End development**
+- 💻 I truly enjoy **coding** and building things from scratch
+- 💡 I love turning my **ideas into reality**
 ---
+
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
