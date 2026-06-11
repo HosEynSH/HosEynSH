@@ -6,7 +6,7 @@
 ### 🚀 Computer Engineering Student
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=98C379&center=true&vCenter=true&width=500&lines=Building+cool+stuff+with+code;Exploring+Algorithms+%26+Theory;Turning+Code+Into+Visual+Art" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=98C379&center=true&vCenter=true&width=600&lines=Passionate+about+UI+%26+Front-End;Loves+coding+from+scratch;Turns+ideas+into+reality" alt="Typing SVG" />
 </p>
 
 ---
